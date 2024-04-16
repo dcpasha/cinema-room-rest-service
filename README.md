@@ -1,0 +1,1 @@
+This Cinema Room REST service allows moviegoers to purchase tickets for a specific seat. Each ticket has a unique id that can be used to keep track of them. This id can also be used to return a ticket. A movie theather manager can see how many tickets were sold.
