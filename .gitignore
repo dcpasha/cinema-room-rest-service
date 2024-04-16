@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room REST Service with Java/task/build/
+/Cinema Room REST Service with Java/task/out/
+/Cinema Room REST Service with Java/task/out/production/classes/
+/Topics/Multidimensional array/Create cube/out/
+/Topics/Multidimensional array/Create cube/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
